@@ -1,0 +1,6 @@
+[submodule "iRead-Front-End"]
+	path = iRead-Front-End
+	url = git@github.com:Jansenck/iRead-Front-End.git
+[submodule "iRead-Backend"]
+	path = iRead-Backend
+	url = git@github.com:Jansenck/iRead-Backend.git
